@@ -1,3 +1,4 @@
+#此文件暂时废弃
 eureka:
   client:
     serviceUrl:
